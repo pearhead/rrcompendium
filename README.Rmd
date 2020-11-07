@@ -20,11 +20,11 @@ Title <- "Title of your paper goes here"
 
 This repository contains the data and code for our paper:
 
-> Krystalli, A, (2018). _`Partial Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 with rrtools`_. Name of journal/book <https://doi.org/xxx/xxx>
+> Authors, (YYYY). _`r Title`_. Name of journal/book <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
-> Krystalli, A, (2018). _`Partial Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 with rrtools`_. Name of journal/book, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/xxx/xxx>
+> Authors, (YYYY). _`r Title`_. Name of journal/book, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/xxx/xxx>
 
 
 ### How to cite
